@@ -1,0 +1,6 @@
+Simmons.Gene.Elm street 5.555-666
+Simmons.Gene.Elm street 1.555-1000
+Singer.Eric.Elm street 2.555-1001
+Stanley.Paul.Elm street 3.555-1002
+Stanley.Cup.Elm street 1.555-1002
+Thayer.Tommy.Elm street 4.555-1003
